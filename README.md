@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working with the OpenAI GPT apis and web development<br>🌱 urrently learning about ways to exploit GPTs<br>🫡 I'm looking for cool ideas and new technologies
+🔭 I'm currently working with the OpenAI GPT apis and web development<br>🌱 currently learning about ways to exploit GPTs<br>🫡 I'm looking for cool ideas and new technologies
 
 
 ## 🌐 Socials:
