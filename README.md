@@ -1,5 +1,5 @@
 # 💫 About Me:
-am working with the OpenAI GPT apis and web development<br>I am looking for cool ideas and new technologies<br>am currently learning about ways to exploit GPTs<br>ask me about python, aws, solidity, openAi, django<br>I like coding!
+🔭 I'm currently working with the OpenAI GPT apis and web development<br>🌱 urrently learning about ways to exploit GPTs<br>🫡 I'm looking for cool ideas and new technologies
 
 
 ## 🌐 Socials:
